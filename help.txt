@@ -1,0 +1,8 @@
+Usage: tor-relay-checker <ip address> [<switches>]
+
+<IP Address>
+Can be IPv4 or IPv6. Do not include port numbers.
+
+<Switches>
+-h --help: Displays this message
+-q --quiet: Disables printing output
